@@ -51,5 +51,4 @@ SIGKILL(9): 즉시 프로세스를 강제 종료합니다. 프로세스가 응�
 SIGHUP(1): 프로세스를 재시작하거나 종료하는 데 사용됩니다.
 
 * 참조링크
-Link: [kill][Googlelink]
-[Googlelink]: https://monkeybusiness.tistory.com/626
+Link: [kill] https://monkeybusiness.tistory.com/626
