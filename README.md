@@ -1,23 +1,21 @@
-과제3
+과제3: (Linux) top, ps, jobs, kill 명령어
 =============
 top 명령어
 -------------
 __top__ 명령어는 현재 OS의 상태를 나타내주는 CLI 어플리케이션입니다. 메모리 사용량, CPU 사용량 등을 나타내주며 top를 실행하는 동안에는 주기적인 업데이트로 실시간에 근접한 내용을 보여줍니다.
 
 * 참조링크
-Link: [Top][Googlelink]
-[Googlelink]: https://sabarada.tistory.com/146
+Link: [Top] https://sabarada.tistory.com/146
 * * *
 ps 명령어
 -------------
-Process Status의 약어를 이름으로 사용한 __ps__명령어를 사용하면 현재 구동 중인 프로세스 정보를 확인할 수 있습니다. 명령어와 함께 사용되는 주요 옵션들은 다음과 같습니다.
+Process Status의 약어를 이름으로 사용한 __ps__ 명령어를 사용하면 현재 구동 중인 프로세스 정보를 확인할 수 있습니다. 명령어와 함께 사용되는 주요 옵션들은 다음과 같습니다.
 1. -e: 현재 사용자뿐만 아니라 다른 사용자들이 구동시킨 모든 프로세스를 보여줍니다. (즉, -e 옵션이 없다면 ps 명령어는 현재 사용자(Shell)이 실행 중인 프로세스만 보여줍니다.
 2. -f: 보다 상세한 정보를 보여줍니다. (Full format)
 3. -l: -f보다 더 상세한 정보를 보여줍니다.(Long format)
 
 * 참조링크
-Link: [ps][Googlelink]
-[Googlelink]: https://tigris-data-science.tistory.com/entry/Linux-ps-%EB%AA%85%EB%A0%B9%EC%96%B4
+Link: [ps] https://tigris-data-science.tistory.com/entry/Linux-ps-%EB%AA%85%EB%A0%B9%EC%96%B4
 
 * * *
 jobs 명령어
@@ -40,8 +38,7 @@ jobs 명령어 사용법
 5. -s: 일시 중지된 작업만 출력합니다.
 
 * 참조링크
-Link: [jobs][Googlelink]
-[Googlelink]: https://monkeybusiness.tistory.com/630
+Link: [jobs] https://monkeybusiness.tistory.com/630
 * * *
 kill 명령어
 ------------
